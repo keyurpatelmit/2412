@@ -1,0 +1,82 @@
+.sam-progressbar {
+	position: fixed;
+	top: 0;
+}
+.fixedwithscroll {
+	max-height: 300px;
+	min-height: 300px;
+	padding: 0 !important;
+}
+.fixedwithscroll select {
+	max-height: 300px;
+	min-height: 300px;
+	padding: 0 !important;
+	border: none;
+}
+.fixedwithscroll select option {
+	padding: 5px;
+}
+.width-100 {
+	width: 100%;
+}
+.sm-btn {
+	border-radius: 50%;
+	height: 35px;
+	width: 35px;
+	vertical-align: middle;
+}
+.sm-btn i {
+	display: inline-block;
+	text-align: center;
+}
+
+.txt-left {
+	text-align: left;
+}
+
+.makes-selected {
+	background-color: #e2dff5;
+}
+
+.height-200 {
+	height: 200px;
+	width: 100%;
+	cursor: pointer;
+}
+
+.img_site {
+	display: inline;
+    float: left;
+    margin-top: 5px;
+    background-color: #fff;
+    margin-right: 10px;
+}
+
+.custom_msg{
+	color: red;
+    font-size: 11px;
+    font-family: monospace;
+
+}
+
+/* Chrome, Safari, Edge, Opera */
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+/* Firefox */
+input[type=number] {
+  -moz-appearance: textfield;
+}
+
+#topnav .navigation-menu > li > a{
+	font-size: 13px;
+    padding-left: 8px !important;
+    padding-right: 8px !important;
+}
+
+/*.table td{
+	text-transform: uppercase;
+}*/

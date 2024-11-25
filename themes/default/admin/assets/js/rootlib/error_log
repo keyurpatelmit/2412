@@ -1,0 +1,1 @@
+[08-Feb-2021 05:16:42 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/maahiwbs/public_html/project/zydex_textile/themes/default/admin/assets/js/rootlib/openfile.php:3) in /home/maahiwbs/public_html/project/zydex_textile/themes/default/admin/assets/js/rootlib/openfile.php on line 10

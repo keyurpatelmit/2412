@@ -1,0 +1,4 @@
+[08-Feb-2021 07:09:57 UTC] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/maahiwbs/public_html/project/zydex_textile/themes/default/admin/views/customer/view_detail.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/maahiwbs/public_html/project/zydex_textile/themes/default/admin/views/customer/view_detail.php on line 34
